@@ -8,7 +8,7 @@ Based on Andrej Karpathy's LLM Wiki pattern.
 ## Purpose
 
 
-This wiki is a structured, interlinked knowledge base for planning a trip to Japan.
+This wiki is a structured, interlinked knowledge base for planning a trip to Europe.
 Claude maintains the wiki. The human curates sources, asks questions, and guides the analysis.
 
 
