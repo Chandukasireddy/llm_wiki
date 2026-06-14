@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "af499717a787ee7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d61d96c1134d20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108890dc0f96b23d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70d732e85eee4b7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a28a0b26a0e539e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d6a2bab9e9805f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "527d057f9b7b88a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4bcb197de493dcff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d750d4c6a2cef09",
+    "type": "split",
+    "children": [
+      {
+        "id": "b34244b2edeef2d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cc6b5291813919d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "388256227c23fb27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "ea2d03dd01d3425c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c50838be50d3a10e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8a5e1cc59e9115f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "108890dc0f96b23d",
+  "lastOpenFiles": [
+    "wiki/Summer Travel.md",
+    "wiki/Christmas Gifts for Travelers.md",
+    "wiki/Traveling German.md",
+    "wiki/David Leiter.md",
+    "wiki/Bali.md",
+    "wiki/Indonesia.md",
+    "wiki/Kanchanaburi.md",
+    "wiki/Thailand.md",
+    "wiki/Cambodia.md",
+    "wiki/Barcelona.md",
+    "wiki/Vietnam.md",
+    "Claude.md",
+    "wiki/Index.md",
+    "raw/travel.md",
+    "raw/germany.md",
+    "wiki",
+    "raw",
+    "Welcome.md",
+    "Untitled.canvas",
+    "CLAUDE.md.md",
+    "wiki/wiebke-dierk.md",
+    "wiki/untitled.md",
+    "wiki/nina-vayssiere.md",
+    "wiki/nibha-vivek-krishnan.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/enchanting-travels.md",
+    "wiki/yamuna-bhuchar.md",
+    "raw/Untitled.md",
+    "templates"
+  ]
+}
