@@ -1,18 +1,34 @@
-# Travel Wiki Index
+# Europe Travel Wiki Index
 
-Welcome to the Travel Wiki! This wiki is compiled from travel blog clippings, containing information about destinations, travel bloggers, and travel tips.
+**Summary**: The main navigation index and table of contents for the Europe Travel Wiki database.
 
-## 🗺️ Destinations
-* **[[Vietnam]]**: Beautiful beach escapes, classic Saigon-to-Hanoi itinerary, Mekong Delta, and islands.
-* **[[Barcelona]]**: Barcelona summers and autumns (September), local holidays, and tips.
-* **[[Cambodia]]**: Ancient temples (Angkor Wat), beach escapes (Koh Rong), Phnom Penh, and Kampot.
-* **[[Thailand]]**: Beach comparisons and traveling to **[[Kanchanaburi]]**.
-* **[[Indonesia]]**: Explore the Indonesian archipelago, featuring **[[Bali]]**.
+**Sources**: None (wiki index)
 
-## ✍️ Travel Bloggers & Authors
-* **[[David Leiter]]**: The traveler behind *The World Travel Guy*, traveling full-time for 10 years with his wife Intan.
-* **[[Traveling German]]**: Luxury, adventure, and foodie travel blogger with a passion for water travel and long-term experience in Barcelona and Vietnam.
+**Last updated**: 2026-06-14
 
-## 💡 Travel Inspiration & Tips
-* **[[Summer Travel]]**: Outdoor activities, summer destinations, and blogger recommendations.
-* **[[Christmas Gifts for Travelers]]**: Gift guides, small items, electronics, and journals.
+---
+
+Welcome to the **Europe Travel Wiki**, a structured personal knowledge base compiling travel logs and regional itineraries.
+
+## 🏔️ Northern & Western Europe
+* **[[iceland]]**: Driving logistics, black sand beach safety, and geological wonders.
+* **[[norway]]**: Coastal Arctic mountains, cold-water surfing, Sognefjord, and railway lines.
+* **[[france]]**: Parisian neighborhoods, Seine sunset picnics, Louvre crowd hacks, and Provence lavender routes.
+* **[[united-kingdom]]**: London food markets, South Kensington museums, Glencoe, and the Isle of Skye.
+
+## ☀️ Southern & Central Europe
+* **[[italy]]**: Colosseum ticketing, Vatican dress codes, Trastevere dining, and Amalfi Coast hikes.
+* **[[spain]]**: Seville's Alcázar palace, authentic Flamenco, and Catalonia's capital.
+* **[[barcelona]]**: Antoni Gaudí's modernist masterpieces, La Mercè street festival, and tapas crawls.
+* **[[greece]]**: Athens neoclassical quarters, Santorini caldera trails, and Milos's lunar beaches.
+* **[[austria]]**: Imperial palace viewing and Viennese coffee house traditions.
+* **[[hungary]]**: Geothermal spa baths, ruin bar locations, and river cruises in Budapest.
+
+## ✍️ Travel Authors & Summary Guides
+* **[[elena-rostova]]**: Travel writer and photographer covering Northern and Western Europe.
+* **[[mateo-silva]]**: Cultural historian covering Southern and Central Europe.
+* **[[europe-nordic-west]]**: Comprehensive guide summary for Northern & Western Europe.
+* **[[europe-mediterranean-east]]**: Comprehensive guide summary for Southern & Central Europe.
+
+## 🗃️ Wiki Logs
+* **[[log]]**: Append-only log record of wiki edits and source ingestion histories.
