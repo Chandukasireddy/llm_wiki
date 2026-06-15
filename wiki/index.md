@@ -4,7 +4,8 @@
 
 **Sources**: None (wiki index)
 
-**Last updated**: 2026-06-14
+**Last updated**: 2026-06-15
+
 
 ---
 
@@ -30,5 +31,10 @@ Welcome to the **Europe Travel Wiki**, a structured personal knowledge base comp
 * **[[europe-nordic-west]]**: Comprehensive guide summary for Northern & Western Europe.
 * **[[europe-mediterranean-east]]**: Comprehensive guide summary for Southern & Central Europe.
 
+## 🤖 LLM Wiki Methodology & Specifications
+* **[[karpathy-llm-wiki]]**: Andrej Karpathy's conceptual pattern for compiling persistent, compounding personal knowledge bases.
+* **[[google-open-knowledge-format]]**: Google Cloud's open specification for standardizing directory-based Markdown knowledge bundles with YAML frontmatter.
+
 ## 🗃️ Wiki Logs
 * **[[log]]**: Append-only log record of wiki edits and source ingestion histories.
+
